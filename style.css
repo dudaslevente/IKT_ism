@@ -1,17 +1,18 @@
 body{
-    background-color: silver;
+    background-color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 14px;
 }
 
 header{
-    background-color: slategray;
+    background-color: green;
     line-height: 120px;
     min-height: 120px;
     color: white;
     text-shadow: 0 0 3px black;
     text-align: center;
     font-size: 200%;
+    border-radius: 50px;
 }
 
 footer{
@@ -27,8 +28,15 @@ main{
     padding: 10px;
 }
 
-.container{
-    background-color: white;
-    box-shadow: 0 0 10px gray;
-    padding: 10px;
+img{
+    height: 500px;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 3px solid red;
+    border-radius: 20px;
+    padding: 15px;
 }
