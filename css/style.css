@@ -69,3 +69,25 @@ table td{
     width: 25%;
     margin: 1%;
 }
+
+.mikulas p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.mikulas img{
+    float: right;
+    width: 40%;
+    margin: 1%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+a:hover{
+    color: red;
+}
