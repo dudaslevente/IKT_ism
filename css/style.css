@@ -25,10 +25,6 @@ footer{
     padding: 10px;
 }
 
-main{
-    padding: 10px;
-}
-
 .idezet img{
     float: right;
     width: 30%;
@@ -114,11 +110,6 @@ li a{
 .dalok{
     border: 2px solid darkred;
     background-color: lightsalmon;
-}
-
-.nav-link{
-    font-size: 20px;
-    color: black;
 }
 
 .filmek{
