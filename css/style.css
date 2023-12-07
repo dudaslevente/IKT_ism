@@ -47,7 +47,7 @@ main{
 .idezet{
     border: 3px solid red;
     padding-bottom: 8%;
-    background-color: lightcoral;
+    background-color: lightsalmon;
 }
 
 table td{
@@ -55,7 +55,7 @@ table td{
     text-align: justify;
     font-size: 20px;
     border: 2px solid red;
-    background-color: lightcoral;
+    background-color: lightsalmon;
 }
 
 .elkeszites p{
@@ -82,12 +82,41 @@ table td{
     margin: 1%;
 }
 
-a{
+footer a{
     text-decoration: none;
     color: white;
     font-size: 20px;
 }
 
-a:hover{
+footer a:hover{
+    color: red  ;
+}
+
+.dalok{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: justify;
+}
+
+li a{
+    color: black;
+    text-decoration: none;
+}
+
+.red a:hover{
     color: red;
+}
+
+.green a:hover{
+    color: green;
+}
+
+.dalok{
+    border: 2px solid darkred;
+    background-color: lightsalmon;
+}
+
+.nav-link{
+    font-size: 20px;
+    color: black;
 }
