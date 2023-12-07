@@ -49,3 +49,23 @@ main{
     padding-bottom: 8%;
     background-color: lightcoral;
 }
+
+table td{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 20px;
+    border: 2px solid red;
+    background-color: lightcoral;
+}
+
+.elkeszites p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.hozzavalok img{
+    float: right;
+    width: 25%;
+    margin: 1%;
+}
