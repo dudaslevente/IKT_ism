@@ -120,3 +120,19 @@ li a{
     font-size: 20px;
     color: black;
 }
+
+.filmek{
+    border: 2px solid darkred;
+    background-color: lightsalmon;
+}
+
+li{
+    color: black;
+    font-size: 20px;
+}
+
+.filmek img{
+    width: 60%;
+    float: right;
+    margin: 1%;
+}
